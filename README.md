@@ -357,14 +357,14 @@ We welcome contributions! Here's how:
 ## 💬 Community & Support
 
 ### Get Help
-- 📖 **Documentation:** [app.yg3.ai/docs](https://app.yg3.ai/docs)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/yourusername/yg3-tutorials/discussions)
-- 🐛 **Issues:** [Report bugs](https://github.com/yourusername/yg3-tutorials/issues)
+- 📖 **Documentation:** [help.yg3.ai](https://help.yg3.ai/s)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/YG3-ai/yg3-tutorials/discussions)
+- 🐛 **Issues:** [Report bugs](https://github.com/yg3-ai/yg3-tutorials/issues)
 - 📧 **Email:** support@yg3.ai
 
 ### Share Your Work
 Built something cool? Share it!
-- [Show and Tell](https://github.com/yourusername/yg3-tutorials/discussions/categories/show-and-tell)
+- [Show and Tell](https://github.com/YG3-ai/yg3-tutorials/discussions/categories/show-and-tell)
 - Tag `#YG3API` on social media
 - Submit to our showcase
 
@@ -385,7 +385,7 @@ Built something cool? Share it!
 - 🚧 Community showcase
 - 🚧 Advanced patterns and use cases
 
-**Want to influence the roadmap?** [Share your ideas](https://github.com/yourusername/yg3-tutorials/discussions)
+**Want to influence the roadmap?** [Share your ideas](https://github.com/YG3-ai/yg3-tutorials/discussions)
 
 ---
 
