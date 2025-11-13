@@ -2,7 +2,7 @@
 
 > Learn the #1 most popular AI agent pattern using the YG3 API
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/](https://colab.research.google.com/drive/11FgWCha8GSq4OhxqYflad27eLMEbvwnO)
 [![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-green.svg)]()
 [![Time: 10 min](https://img.shields.io/badge/Time-10%20min-blue.svg)]()
 
