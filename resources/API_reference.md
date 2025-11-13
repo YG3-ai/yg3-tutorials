@@ -803,7 +803,7 @@ const client = new OpenAI({
 ## Additional Resources
 
 ### Documentation
-- **Main Docs:** [https://app.yg3.ai/docs](https://help.yg3.ai)
+- **Main Docs:** [https://help.yg3.ai](https://help.yg3.ai)
 - **Tutorial Hub:** [../README.md](../README.md)
 - **Examples:** [../examples/](../examples/)
 
@@ -841,6 +841,6 @@ A: Yes! The API is production-ready and designed for scale.
 
 **Have questions?**
 
-[📖 Main Docs](https://app.yg3.ai/docs) | [💬 Community](https://github.com/YG3-ai/yg3-tutorials/discussions) | [📧 Support](mailto:support@yg3.ai)
+[📖 Main Docs](https://help.yg3.ai) | [💬 Community](https://github.com/YG3-ai/yg3-tutorials/discussions) | [📧 Support](mailto:support@yg3.ai)
 
 </div>
