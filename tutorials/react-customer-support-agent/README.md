@@ -59,20 +59,8 @@ python minimal_agent.py
 python colab_agent_demo.py
 ```
 
-**Get your API key:** [https://app.yg3.ai](https://app.yg3.ai)
+**Get your API key:** [https://app.yg3.ai/api-keys](https://app.yg3.ai)
 
----
-
-## 📁 Files in This Tutorial
-
-| File | Purpose | Use When |
-|------|---------|----------|
-| **Customer_Support_Agent_Demo.ipynb** | Full interactive notebook | Best demo experience ⭐ |
-| **colab_agent_demo.py** | Gradio UI demo | Want GUI without notebook |
-| **minimal_agent.py** | Simplest 70-line version | Learning the concepts |
-| **customer_support_agent.py** | Production-ready | Building real products |
-| **QUICK_START.md** | Version comparison | Choosing which to use |
-| **OVERVIEW.md** | Complete documentation | Deep dive into concepts |
 
 ---
 
