@@ -208,7 +208,7 @@ client = OpenAI(api_key="YOUR_API_KEY", base_url="...")
 | `stream` | boolean | Enable streaming responses |
 | `tools` | array | Available functions/tools |
 
-Full API documentation: [https://app.yg3.ai/docs](https://app.yg3.ai/docs)
+Full API documentation: [https://help.yg3.ai](https://help.yg3.ai)
 
 ---
 
