@@ -6,7 +6,7 @@
 
 > Complete tutorials and examples for building with the YG3 API (also known as CLM or Elysia API). From quick starts to production applications.
 
-[🚀 Quick Start](#quick-start) • [📚 Tutorials](#tutorials) • [💡 Examples](#examples) • [📖 API Docs](https://app.yg3.ai)
+[🚀 Quick Start](#quick-start) • [📚 Tutorials](#tutorials) • [💡 Examples](#examples) • [📖 API Docs](https://help.yg3.ai)
 
 ---
 
@@ -91,7 +91,7 @@ We're building a comprehensive tutorial library covering:
 - 🔧 Integration guides
 - 🚀 Deployment strategies
 
-**Want to see something specific?** [Open an issue](https://github.com/yourusername/yg3-tutorials/issues) to suggest a tutorial!
+**Want to see something specific?** [Open an issue](https://github.com/YG3-ai/yg3-tutorials/issues) to suggest a tutorial!
 
 ---
 
@@ -105,7 +105,7 @@ The **YG3 API** (also known as the **CLM** or **Elysia** API) is a powerful, Ope
 - ⚡ **Fast & Reliable** - Production-grade infrastructure
 - 💰 **Cost-Effective** - Competitive pricing
 - 🛠️ **Developer-Friendly** - Excellent documentation and support
-- 🎯 **Powerful** - Advanced language understanding and generation
+- 🎯 **Powerful** - Advanced language understanding and generation with the YG3 family of Concentrated Language Models (CLMs)
 
 ### Key Features
 
@@ -220,20 +220,18 @@ yg3-tutorials/
 ├── tutorials/                         # Complete tutorials
 │   └── react-customer-support-agent/ # Part 1: ReAct agent
 │       ├── README.md
-│       ├── notebook.ipynb
-│       ├── minimal_agent.py
-│       └── production_agent.py
+│       └── Customer_Support_Demo.ipynb 
 │
-├── examples/                          # Quick examples
-│   ├── quickstart/                   # Getting started examples
-│   ├── streaming/                    # Streaming responses
-│   ├── function-calling/             # Tool use examples
-│   └── integrations/                 # Framework integrations
+├── examples/                          # Quick examples [COMING SOON]
+│   ├── quickstart/                   # Getting started examples [COMING SOON]
+│   ├── streaming/                    # Streaming responses [COMING SOON]
+│   ├── function-calling/             # Tool use examples [COMING SOON]
+│   └── integrations/                 # Framework integrations [COMING SOON]
 │
-└── resources/                         # Additional resources
-    ├── api-reference.md              # Detailed API docs
-    ├── best-practices.md             # Tips and patterns
-    └── troubleshooting.md            # Common issues
+└── resources/                         # Additional resources [COMING SOON]
+    ├── api-reference.md              # Detailed API docs [COMING SOON]
+    ├── best-practices.md             # Tips and patterns [COMING SOON]
+    └── troubleshooting.md            # Common issues [COMING SOON]
 ```
 
 ---
@@ -418,7 +416,7 @@ It helps others discover these resources.
 
 **Ready to build something amazing?**
 
-[🚀 Get Your API Key](https://app.yg3.ai) | [📚 Start Tutorial 1](./tutorials/react-customer-support-agent/) | [💬 Join Community](https://github.com/yourusername/yg3-tutorials/discussions)
+[🚀 Get Your API Key](https://app.yg3.ai) | [📚 Start Tutorial 1](./tutorials/react-customer-support-agent/) | [💬 Join Community](https://github.com/YG3-ai/yg3-tutorials/discussions)
 
 ---
 
